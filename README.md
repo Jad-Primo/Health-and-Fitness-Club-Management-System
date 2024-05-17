@@ -4,7 +4,8 @@
 ## IMPORTANT NOTICE
 this project is undergoing maintence.
 the current code will not run. during maintenance, my devices(laptop and desktop) unfortunately had to be repaired. 
-there will be a file called 'prototype'.
+there will be a folder called 'prototype'.
+it contains the code for a working prototype.
 it works as the project is intented.
 however it is a lesser version 
 
