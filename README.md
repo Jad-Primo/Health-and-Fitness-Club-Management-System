@@ -1,5 +1,14 @@
 # Health-and-Fitness-Club-Management-System
 
+
+## IMPORTANT NOTICE
+this project is undergoing maintence.
+the current code will not run. during maintenance, my devices(laptop and desktop) unfortunately had to be repaired. 
+there will be a file called 'prototype'.
+it works as the project is intented.
+however it is a lesser version 
+
+
 ## Overview
 The Health and Fitness Club Management System is designed to manage the day-to-day operations of a health and fitness club. It facilitates various functionalities for members, trainers, and administrative staff. Members can register for classes, manage profiles, and track their fitness progress. Trainers can manage their schedules and view member profiles, while administrative staff can handle room bookings, equipment maintenance, class scheduling, and financial transactions.
 
